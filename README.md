@@ -1,4 +1,4 @@
-# How-to-Fish-Trainer-
+# How-to-Fish-Cheats
 
 <div align="center">
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/da9a8bef-9270-4713-99dd-57cd4e264c22" />
