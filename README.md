@@ -14,20 +14,6 @@
 > **Mods, trainers, and utilities for How to Fish.**
 
 </div>
-
----
-
-## 📖 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Download](#download)
-- [Installation](#installation)
-- [System Requirements](#system-requirements)
-- [FAQ](#faq)
-- [License](#license)
-- [Support](#support)
-
 ---
 
 ## 🎯 About
